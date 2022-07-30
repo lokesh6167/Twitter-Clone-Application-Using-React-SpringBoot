@@ -1,0 +1,19 @@
+.success{
+    padding-top: 3px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.regButton{
+    padding-top :8px;
+}
+
+.LoginHeader{
+    text-align: center;
+    padding-bottom: 3px;
+}
+
+.continueButton{
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+.Header{
+    text-align: center;
+}
+
+.heading{
+    color : rgb(38, 38, 90);
+    font-size:40px;
+    font-family: fantasy;
+    display: block;
+}
+
+.body {
+    margin-top: 10px;
+}

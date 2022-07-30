@@ -1,0 +1,11 @@
+#title{
+    color: white;
+    margin-bottom: 3px;
+    padding-bottom: 6px;
+    text-align: center;
+}
+ 
+#card {
+    border-color: rgb(13, 9, 34);
+    border-style: double;
+}

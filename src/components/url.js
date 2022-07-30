@@ -1,0 +1,1 @@
+export const url = "http://tweetappbackend17thjuly-env.eba-9u3fzqqu.us-east-1.elasticbeanstalk.com/api/v1.0/tweets";

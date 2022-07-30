@@ -1,0 +1,28 @@
+.like {
+   background-color: #1d0617;
+   border: none;
+   color: white;
+   padding: 10px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+ }
+
+ .like {border-radius: 50%;}
+
+ .card {
+   margin-top: 6px;
+   border-color: rgb(18, 17, 24);
+   background-color: rgb(248, 241, 245);
+ }
+
+ .title {
+   color : rgb(3, 20, 10)
+ }
+
+ .button{
+   outline-width:2px;
+ }
+ 

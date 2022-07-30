@@ -1,0 +1,16 @@
+.homeContainer {
+    padding-top: 150px;
+}
+
+.bird {
+    align-items: center;
+}
+
+.tweet {
+    color: #1f6de291;
+
+}
+
+.app {
+    color: grey;
+}
